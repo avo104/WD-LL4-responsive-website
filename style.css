@@ -1,0 +1,12 @@
+/* Apply Open Sans font to p1 elements */
+p1 {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+/* Set the background color to Sky Blue (#BFD8EB) for the whole page */
+body {
+  background-color: #BFD8EB;
+}
+/* Apply Montserrat font to h1 headings */
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
